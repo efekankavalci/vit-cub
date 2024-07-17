@@ -18,3 +18,4 @@ This project focuses on applying Vision Transformers (ViT) to fine-grained image
     - Full architecture
 3. **Attention Visualization**: Raw attention maps and attention rollout technique are used to visualize which parts of the image influence the classification decision.
 
+![attnmap](https://github.com/user-attachments/assets/baa330e6-1255-4eee-9964-db3486d13b1d)
